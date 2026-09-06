@@ -1,10 +1,27 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" />
-</p>
+<h1 align="center">
+  Tanadon Chaisila
+</h1>
 
-<h2 align="center">
-  👋 Hi, I'm Tanadon Chaisila
-</h2>
+---
+
+<div align="center">
+
+# Tanadon
+# Chaisila
+
+`programmer`  
+`web developer`  
+`game developer`
+
+---
+
+🎓 **Computer Science — Khon Kaen University**
+
+💻 **Next.js · Supabase · Vercel**
+
+📸 **[@boom_tanadd](https://www.instagram.com/boom_tanadd/)**
+
+</div>
 
 <p align="center">
   🎓 Computer Science Student @ Khon Kaen University
@@ -22,19 +39,13 @@
 
 ## 🧑‍💻 About Me
 
-🎓 กำลังศึกษาสาขา **วิทยาการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น**
-
-💻 สนใจการพัฒนา **Full-Stack Web Application**
-
-🤖 สนใจด้าน **Artificial Intelligence และ Machine Learning**
-
-🌐 มีประสบการณ์พัฒนา Web Application ด้วย **Next.js, React และ Spring Boot**
-
-🗄️ ทำงานกับฐานข้อมูล **PostgreSQL, MySQL และ Supabase**
-
-☁️ สนใจการ Deploy และ Cloud Platform เช่น **Vercel**
-
-📚 ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และนำมาสร้างเป็นโปรเจกต์จริง
+ - กำลังศึกษาสาขา **วิทยาการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น**
+ - สนใจการพัฒนา **Full-Stack Web Application**
+ - สนใจด้าน **Artificial Intelligence และ Machine Learning**
+ - มีประสบการณ์พัฒนา Web Application ด้วย **Next.js, React และ Spring Boot**
+ - ทำงานกับฐานข้อมูล **PostgreSQL, MySQL และ Supabase**
+ - สนใจการ Deploy และ Cloud Platform เช่น **Vercel**
+ - ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และนำมาสร้างเป็นโปรเจกต์จริง
 
 ---
 
