@@ -24,14 +24,14 @@
 
 ---
 
-GitHub Stats
+<h3> GitHub Stats </h3>
 
 <p align="center"> <img src="./profile/stats.svg" height="170" /> <img src="./profile/top-langs.svg" height="170" /> </p>
 <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
-Tech Stack
+<h3> Tech Stack </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
