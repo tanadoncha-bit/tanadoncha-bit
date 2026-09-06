@@ -42,4 +42,3 @@ jobs:
           git commit -m "Update GitHub stats" || exit 0
 
           git push
-```
