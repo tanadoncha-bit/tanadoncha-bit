@@ -9,6 +9,21 @@
 
 </div>
 
+<p align="center">
+  <small>
+    <font color="#8b949e">
+      Computer Science student interested in <b>Data Engineering</b>, 
+      <b>Data Analytics</b>, and <b>Machine Learning</b>.<br>
+      Experienced with Python, SQL, PostgreSQL, MySQL, Supabase, 
+      and building data-driven applications.<br>
+      Interested in designing data pipelines, managing databases, 
+      processing data, and turning raw data into useful insights.
+    </font>
+  </small>
+</p>
+
+---
+
 ## About Me
 
  - กำลังศึกษาสาขา **วิทยาการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น**
@@ -24,6 +39,7 @@
 GitHub Stats
 
 <p align="center"> <img src="./profile/stats.svg" height="170" /> <img src="./profile/top-langs.svg" height="170" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </p>
 
 ---
 
