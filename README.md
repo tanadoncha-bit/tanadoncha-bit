@@ -1,160 +1,121 @@
-# 👋 Hi, I'm Tanadon Chaisila
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
-### 💻 Computer Science Student | Software Developer | AI/ML Enthusiast
+<h2 align="center">
+  👋 Hi, I'm Tanadon Chaisila
+</h2>
 
-> Building things, breaking things, and learning how to build them better. 🚀
+<p align="center">
+  🎓 Computer Science Student @ Khon Kaen University
+</p>
+
+<p align="center">
+  💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🚀 Builder
+</p>
+
+<p align="center">
+  <i>"เปลี่ยนไอเดียให้เป็นโค้ด และเปลี่ยนโค้ดให้เป็นสิ่งที่ใช้งานได้จริง"</i>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science student at **Khon Kaen University**
+🎓 กำลังศึกษาสาขา **วิทยาการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น**
 
-💡 Interested in **Software Development, Artificial Intelligence & Machine Learning**
+💻 สนใจการพัฒนา **Full-Stack Web Application**
 
-🔨 Currently working with **Java, Spring Boot, Python, and Data Science**
+🤖 สนใจด้าน **Artificial Intelligence และ Machine Learning**
 
-📚 Always learning something new and turning ideas into projects.
+🌐 มีประสบการณ์พัฒนา Web Application ด้วย **Next.js, React และ Spring Boot**
+
+🗄️ ทำงานกับฐานข้อมูล **PostgreSQL, MySQL และ Supabase**
+
+☁️ สนใจการ Deploy และ Cloud Platform เช่น **Vercel**
+
+📚 ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และนำมาสร้างเป็นโปรเจกต์จริง
+
+---
+
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanadoncha-bit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanadoncha-bit&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Frameworks & Tools
+### 🌐 Web Development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge\&logo=java\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### ☁️ Cloud & Backend
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🗄️ Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / Data Science
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🚗 Used Car Price Prediction
-
-**Machine Learning project for predicting used car prices**
-
-* 📊 Dataset: Used Ford Cars
-* 🤖 Model: **XGBoost**
-* 🧹 Data Cleaning & Feature Engineering
-* 📈 Model Evaluation & Comparison
-
----
-
-### 🚌 Smart Van Route & Seat Management
-
-**Mobile application concept for public transportation**
-
-* 🗺️ Route recommendation
-* 💺 Real-time seat management
-* 👨‍✈️ Driver & Customer roles
-* 📱 Designed for public vans/buses in Khon Kaen
-
----
-
-### 🧑‍💻 Face Recognition System
-
-**Computer Vision project for face detection and recognition**
-
-* 👤 Face Detection
-* 🔍 Face Recognition
-* 🖼️ Image Processing with OpenCV
-* 📐 Image Similarity Analysis
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Currently Learning
+## 🎯 My Development Journey
 
 ```text
+⚛️ Next.js & React
 ☕ Java & Spring Boot
-🌐 Web Development
-🗄️ Database Design
+🌐 Full-Stack Web Development
+🗄️ PostgreSQL & Database Design
+🟢 Supabase
+☁️ Vercel & Cloud Deployment
 🤖 Machine Learning
 🧠 Artificial Intelligence
-🏗️ Software Architecture & Design Patterns
+🏗️ Software Architecture
 🧪 Software Testing
 ```
-
 ---
 
-## 📈 My Development Journey
-
-```text
-Programming
-     ↓
-Object-Oriented Programming
-     ↓
-Web Development
-     ↓
-Spring Boot & Backend
-     ↓
-Database & System Design
-     ↓
-Artificial Intelligence & Machine Learning
-     ↓
-🚀 Building Real-World Projects
-```
-
----
-
-## 📫 Connect With Me
+📫 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://www.instagram.com/boom_tanadd/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+
+<a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <i>“Code. Learn. Build. Repeat.”</i> 🚀
-</p>
+<p align="center"> <i>“เขียนโค้ด เรียนรู้ สร้าง และพัฒนา”</i> 🚀 </p>
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+<p align="center"> ⭐ ขอบคุณที่เข้ามาเยี่ยมชมโปรไฟล์ของผมครับ! </p>
