@@ -5,7 +5,7 @@
 ---
 <div align="center">
 
-<img src="./profile-banner.png" width="100%">
+<img src="./profile-banner1.png" width="100%">
 
 </div>
 ---
