@@ -59,7 +59,8 @@ Tech Stack
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
----
-<p align="center"> <i>“เขียนโค้ด เรียนรู้ สร้าง และพัฒนา”</i> </p>
 
+---
+
+<p align="center"> <i>“เขียนโค้ด เรียนรู้ สร้าง และพัฒนา”</i> </p>
 <p align="center"> ⭐ ขอบคุณที่เข้ามาเยี่ยมชมโปรไฟล์ของผมครับ! </p>
