@@ -12,7 +12,7 @@
 <p align="center">
   <small>
     <font color="#8b949e">
-      นักศึกษาวิทยาการคอมพิวเตอร์ที่สนใจด้าน <b>Data Engineering</b>, 
+      นักศึกษาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น ที่สนใจด้าน <b>Data Engineering</b>, 
       <b>Data Analytics</b> และ <b>Machine Learning</b><br>
       มีประสบการณ์ในการใช้ Python, SQL, PostgreSQL, MySQL และ Supabase 
       รวมถึงการพัฒนาแอปพลิเคชันที่ขับเคลื่อนด้วยข้อมูล<br>
@@ -21,18 +21,6 @@
     </font>
   </small>
 </p>
-
----
-
-## About Me
-
- - กำลังศึกษาสาขา **วิทยาการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น**
- - สนใจการพัฒนา **Full-Stack Web Application**
- - สนใจด้าน **Artificial Intelligence และ Machine Learning**
- - มีประสบการณ์พัฒนา Web Application ด้วย **Next.js, React และ Spring Boot**
- - ทำงานกับฐานข้อมูล **PostgreSQL, MySQL และ Supabase**
- - สนใจการ Deploy และ Cloud Platform เช่น **Vercel**
- - ชอบเรียนรู้เทคโนโลยีใหม่ ๆ และนำมาสร้างเป็นโปรเจกต์จริง
 
 ---
 
