@@ -4,37 +4,6 @@
 
 ---
 
-<div align="center">
-
-# Tanadon
-# Chaisila
-
-`programmer`  
-`web developer`  
-`game developer`
-
----
-
-🎓 **Computer Science — Khon Kaen University**
-
-💻 **Next.js · Supabase · Vercel**
-
-📸 **[@boom_tanadd](https://www.instagram.com/boom_tanadd/)**
-
-</div>
-
-<p align="center">
-  🎓 Computer Science Student @ Khon Kaen University
-</p>
-
-<p align="center">
-  💻 Full-Stack Developer • 🤖 AI/ML Explorer • 🚀 Builder
-</p>
-
-<p align="center">
-  <i>"เปลี่ยนไอเดียให้เป็นโค้ด และเปลี่ยนโค้ดให้เป็นสิ่งที่ใช้งานได้จริง"</i>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
