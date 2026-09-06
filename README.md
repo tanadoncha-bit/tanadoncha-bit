@@ -87,15 +87,7 @@
 
 📫 Connect With Me
 
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-<a href="https://www.instagram.com/boom_tanadd/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-
-<a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-
-</p>
+<p align="center"> <a href="https://github.com/tanadoncha-bit"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> &nbsp; <a href="https://www.instagram.com/boom_tanadd/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> &nbsp; <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 
 ---
 
