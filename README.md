@@ -3,7 +3,11 @@
 </h2>
 
 ---
+<div align="center">
 
+<img src="./profile-banner.png" width="100%">
+
+</div>
 ---
 
 ## 🧑‍💻 About Me
