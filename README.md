@@ -12,12 +12,12 @@
 <p align="center">
   <small>
     <font color="#8b949e">
-      Computer Science student interested in <b>Data Engineering</b>, 
-      <b>Data Analytics</b>, and <b>Machine Learning</b>.<br>
-      Experienced with Python, SQL, PostgreSQL, MySQL, Supabase, 
-      and building data-driven applications.<br>
-      Interested in designing data pipelines, managing databases, 
-      processing data, and turning raw data into useful insights.
+      นักศึกษาวิทยาการคอมพิวเตอร์ที่สนใจด้าน <b>Data Engineering</b>, 
+      <b>Data Analytics</b> และ <b>Machine Learning</b><br>
+      มีประสบการณ์ในการใช้ Python, SQL, PostgreSQL, MySQL และ Supabase 
+      รวมถึงการพัฒนาแอปพลิเคชันที่ขับเคลื่อนด้วยข้อมูล<br>
+      สนใจการออกแบบ Data Pipeline การจัดการฐานข้อมูล การประมวลผลข้อมูล 
+      และการนำข้อมูลดิบมาสร้างเป็นข้อมูลเชิงลึกที่มีประโยชน์
     </font>
   </small>
 </p>
