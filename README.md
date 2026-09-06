@@ -2,7 +2,6 @@
   Tanadon Chaisila
 </h2>
 
----
 <div align="center">
 
 <img src="./profile-banner.jpg" width="100%">
