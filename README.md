@@ -1,6 +1,6 @@
-<h1 align="center">
+<h2>
   Tanadon Chaisila
-</h1>
+</h2>
 
 ---
 
