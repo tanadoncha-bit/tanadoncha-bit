@@ -8,7 +8,6 @@
 <img src="./profile-banner1.png" width="100%">
 
 </div>
----
 
 ## 🧑‍💻 About Me
 
@@ -24,7 +23,7 @@
 
 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tanadoncha-bit&show_icons=true&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanadoncha-bit&layout=compact&theme=tokyonight&hide_border=true" height="170"/> </p>
+<p align="center"> <img src="./profile/stats.svg" height="170" /> <img src="./profile/top-langs.svg" height="170" /> </p>
 
 ---
 
